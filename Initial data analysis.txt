@@ -1,0 +1,71 @@
+Variable                 Importance
+MSSubClass:               Don't Know
+MSZoning:                  High
+LotFrontage:               High
+LotArea:                   High
+Street:                    Low
+Alley:                     Low
+LotShape:                  Medium
+LandContour:               Medium
+Utilities:                 High
+LotConfig:                 Medium
+LandSlope:                 Medium
+Neighborhood:              Dont Know
+Condition1:                Low
+Condition2:                Low
+BldgType:                  Medium
+HouseStyle:                Medium
+OverallQual:               high
+OverallCond:               high
+YearBuilt:                 high
+YearRemodAdd:              high
+RoofStyle:                 high
+RoofMatl:                  high
+Exterior1st:               high
+Exterior2nd:               high
+MasVnrType:                Low
+ExterQual:                 High
+ExterCond:                 Medium
+Foundation:                Medium
+BsmtQual:                  Medium
+BsmtCond:                  Low
+BsmtExposure:              low
+BsmtFinType1:              low
+BsmtFinSF1:                low
+BsmtFinType2:              medium
+BsmtFinSF2:                high
+BsmtUnfSF:                 low
+TotalBsmtSF:               high
+Heating:                   high
+HeatingQC:                 high
+CentralAir:                high
+Electrical:                high
+KitchenQual:               high
+TotRmsAbvGrd:              high
+Functional:                high
+Fireplaces:                medium
+FireplaceQu:               medium
+GarageType:                medium
+GarageQual:                high
+WoodDeckSF:                medium
+OpenPorchSF:               medium
+EnclosedPorch:             medium
+3SsnPorch:                 medium
+ScreenPorch:               medium
+PoolArea:                  medium
+PoolQC:                    high
+Fence:                     medium
+MiscFeature:               medium
+MiscVal:                   medium
+MoSold:                    medium
+YrSold:                    high
+SaleType:                  high
+SaleCondition:             high
+
+
+
+
+
+
+
+
